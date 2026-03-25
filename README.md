@@ -48,11 +48,17 @@
 ## 🛒 Shadow Store
 
 <p align="center">
-  تطوير سكربتات FiveM احترافية + أنظمة مخصصة للسيرفرات
+  تطوير وبيع سكربتات FiveM احترافية + أنظمة مخصصة للسيرفرات
 </p>
 
 <p align="center">
   💼 Custom Scripts • 🎨 UI • ⚡ Optimization • 🔐 Protection
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/YOUR_SERVER">
+    <img src="https://img.shields.io/badge/Join%20Store-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -68,7 +74,9 @@
 ## 📬 تواصل
 
 <p align="center">
-  Discord: <b>YOUR_DISCORD</b>
+  <a href="https://discord.gg/YOUR_SERVER">
+    <img src="https://skillicons.dev/icons?i=discord" height="50"/>
+  </a>
 </p>
 
 ---
