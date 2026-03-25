@@ -1,56 +1,75 @@
-<h1 align="center">🕶️ Shadow FiveM Developer</h1>
-<h3 align="center">أنظمة فايف إم احترافية • QBCore • NUI • AI Integration</h3>
+<h1 align="center">🕶️ Shadow Development</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=FiveM+Developer;QBCore+Specialist;NUI+Designer;Advanced+Systems+Builder" />
+</p>
 
 ---
 
 ## 🧠 عني
 
-مطور متخصص في **FiveM** أركز على بناء أنظمة متقدمة + واجهات احترافية + أداء عالي.
+مطور FiveM متخصص في بناء أنظمة متقدمة، واجهات احترافية، وتجارب Roleplay حقيقية.
+
+✔ أداء عالي  
+✔ كود نظيف  
+✔ أنظمة قابلة للتوسع  
+✔ UI احترافي  
 
 ---
 
 ## ⚙️ المهارات
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,js,html,css,github,git" />
+  <img src="https://skillicons.dev/icons?i=lua,js,html,css,git,github" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="45"/>
 </p>
 
 ---
 
-## 🚀 المشاريع
+## 🚀 الأنظمة
 
-- 🤖 Fivem Agent (AI System)
-- 💰 ATM Robbery System
-- 🎨 Custom NUI HUD
-- 🛠️ Crafting Systems
-- 📊 Admin Panels
+<div align="center">
+
+🧠 AI Systems  
+💰 ATM Robbery (Hack / Drill / C4)  
+🎨 Advanced NUI HUD  
+🛠️ Crafting Systems  
+📊 Admin Panels  
+
+</div>
 
 ---
 
 ## 🛒 Shadow Store
 
-تطوير وبيع سكربتات FiveM احترافية.
+<p align="center">
+  تطوير سكربتات FiveM احترافية + أنظمة مخصصة للسيرفرات
+</p>
+
+<p align="center">
+  💼 Custom Scripts • 🎨 UI • ⚡ Optimization • 🔐 Protection
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abual3bed00&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abual3bed00&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 📬 تواصل
 
-- Discord: `YOUR_DISCORD`
-- GitHub: https://github.com/abual3bed00
+<p align="center">
+  Discord: <b>YOUR_DISCORD</b>
+</p>
 
 ---
 
@@ -58,23 +77,32 @@
 
 # 🕶️ FiveM Developer | Shadow Systems
 
-## ⚙️ Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=lua,js,html,css" />
 </p>
 
 ---
 
-## 🚀 Projects
+## 🚀 What I Build
 
-- Fivem Agent  
-- ATM Robbery  
-- Custom HUD  
-- Crafting Systems  
+- Advanced FiveM Systems  
+- Custom UI (NUI)  
+- AI-integrated tools  
+- High-performance scripts  
+
+---
+
+## 🛒 Services
+
+- Custom FiveM Scripts  
+- UI / UX Development  
+- Optimization & Debugging  
+- Full Server Systems  
 
 ---
 
 ## ⚡ Philosophy
 
-> I build systems, not scripts.
+<p align="center">
+  <b>I don’t build scripts… I build systems.</b>
+</p>
