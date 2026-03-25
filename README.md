@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/YOUR_SERVER">
+  <a href="https://discord.gg/HCskVYZPtB">
     <img src="https://img.shields.io/badge/Join%20Store-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
