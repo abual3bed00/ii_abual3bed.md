@@ -74,7 +74,7 @@
 ## 📬 تواصل
 
 <p align="center">
-  <a href="https://discord.gg/YOUR_SERVER">
+  <a href="https://discord.gg/HCskVYZPtB">
     <img src="https://skillicons.dev/icons?i=discord" height="50"/>
   </a>
 </p>
