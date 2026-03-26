@@ -63,13 +63,20 @@
 
 ---
 
-## 📊 Shadow Store Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shadow-Store&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Repositories-7-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Systems-FiveM-orange?style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abual3bed00&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abual3bed00&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abual3bed00&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 ## 📬 تواصل
