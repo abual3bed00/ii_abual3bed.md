@@ -63,12 +63,40 @@
 
 ---
 
-## 📊 GitHub
+## 📦 مشاريع Shadow Store
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shadow-Store&show_icons=true&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Shadow-Store/st-managejobs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shadow-Store&repo=st-managejobs&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Shadow-Store/st-shop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shadow-Store&repo=st-shop&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Shadow-Store/st-mastermind">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shadow-Store&repo=st-mastermind&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Shadow-Store/st-adminitems">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shadow-Store&repo=st-adminitems&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Shadow-Store/ST-Broadcast">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shadow-Store&repo=ST-Broadcast&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Shadow-Store/st-vendingrobbery">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shadow-Store&repo=st-vendingrobbery&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/orgs/Shadow-Store/repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-Shadow%20Store-0d1117?style=for-the-badge" />
+  </a>
+</p>
 ---
 
 ## 📬 تواصل
